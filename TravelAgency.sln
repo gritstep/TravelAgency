@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26228.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Web", "TravelAgency\TravelAgency.Web.csproj", "{C36BD6CB-EE43-417D-9CD7-AFF1DDBBA28E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Tests.CodedUI", "TravelAgency.Tests.CodedUI\TravelAgency.Tests.CodedUI.csproj", "{22B67D92-D68C-45C4-B356-E85335711214}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{C36BD6CB-EE43-417D-9CD7-AFF1DDBBA28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C36BD6CB-EE43-417D-9CD7-AFF1DDBBA28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C36BD6CB-EE43-417D-9CD7-AFF1DDBBA28E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{22B67D92-D68C-45C4-B356-E85335711214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22B67D92-D68C-45C4-B356-E85335711214}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22B67D92-D68C-45C4-B356-E85335711214}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22B67D92-D68C-45C4-B356-E85335711214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
