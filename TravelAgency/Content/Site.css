@@ -33,7 +33,7 @@ textarea {
 .navbar-inverse
 {
     background-color: dodgerblue;
-    border-color: blue;
+    border-color: darkblue;
     color: white;
     font-size: larger;
     font-weight: bold;
@@ -59,10 +59,9 @@ textarea {
     font-size: smaller;
 }
 
-.header
-{
+.header {
     background-color: dodgerblue;
-    border-color: blue;
+    border-color: darkblue;
     color: white;
     font-size: larger;
     font-weight: bold;
